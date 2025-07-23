@@ -21,9 +21,9 @@ Database:
 
 
 ## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyanshu08&layout=compact)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
+</p>
 ## Let's Connect
 - [Email Me](mailto:yashtiwari4000@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/pragyanshutiwari/)
