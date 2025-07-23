@@ -24,8 +24,8 @@ Database:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
 </p>
-## Let's Connect
-- [Email Me](mailto:yashtiwari4000@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/pragyanshutiwari/)
+
+📫 **Let’s Connect**  
+[📧 Email Me](mailto:yashtiwari4000@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/pragyanshutiwari/)
 
 > "Code is like magic — if you know the spell, you can build anything."
