@@ -8,6 +8,8 @@ When I'm not coding, you can find me exploring new tech trends, contributing to 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
 
+
+
 🛠️ **Tech Stack**   
 Frontend:  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
@@ -22,7 +24,7 @@ Database:
 
 ## Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyanshu08&layout=compact&theme=tokyonight" />
 </p>
 
 📫 **Let’s Connect**  
