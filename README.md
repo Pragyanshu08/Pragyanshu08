@@ -1,5 +1,5 @@
 # Hi there, I'm Pragyanshu Tiwari 👋
-Full-Stack Developer |  
+Full-Stack Developer 
  
 ## About Me 🚀 
 When I'm not coding, you can find me exploring new tech trends, contributing to open-source projects, or working on personal development.
