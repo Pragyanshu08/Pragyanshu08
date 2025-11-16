@@ -1,10 +1,12 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pragyanshu%20Tiwari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
 
-# 👋 Hi, I'm Pragyanshu Tiwari
+<div align="center">
 
 ### Full-Stack Developer | Building Digital Experiences 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+seamless+user+experiences;Passionate+about+clean+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+seamless+user+experiences;Passionate+about+clean+code;Real-time+apps+enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
@@ -118,15 +120,32 @@ Freeform organization • Rich text editing • Note management • Cloud sync
 ## 📊 github stats
 
 <div align="center">
-  <img src="https://github.com/Pragyanshu08/Pragyanshu08/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Pragyanshu08/Pragyanshu08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyanshu08&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragyanshu08&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pragyanshu08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyanshu08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragyanshu08&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyanshu08&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pragyanshu08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -146,8 +165,26 @@ Freeform organization • Rich text editing • Note management • Cloud sync
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pragyanshu08&color=blueviolet&style=for-the-badge)
+### 💬 random dev quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pragyanshu08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Pragyanshu08?style=for-the-badge&color=blue&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/Pragyanshu08?style=for-the-badge&color=yellow&label=STARS)
+
+<br/>
 
 ### ✨ *"code is like magic — if you know the spell, you can build anything"*
 
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
