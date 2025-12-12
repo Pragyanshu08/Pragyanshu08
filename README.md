@@ -61,7 +61,11 @@ Real-time collaboration • Live cursors • Voice chat • 3D animations
 **Modern Social Media Platform** • `React` `Node.js` `MongoDB` `Express`
 
 
- <img src="https://res.cloudinary.com/dalcmjvyn/image/upload/w_700,q_85/v1765524476/AuroraVideoLandingPage_vo1ewj.gif" alt="Aurora Preview" width="600px" />
+<img src="https://res.cloudinary.com/dalcmjvyn/image/upload/w_500,q_70/v1765524476/AuroraVideoLandingPage_vo1ewj.gif" alt="Aurora Preview" width="600px" />
+
+
+
+
 
 
 User profiles • Post sharing • Real-time feeds • Social interactions
