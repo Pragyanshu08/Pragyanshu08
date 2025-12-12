@@ -44,7 +44,8 @@ const pragyanshu = {
 ### 🎨 Drawno
 **Real-Time Collaborative Whiteboard** • `React` `Vite` `WebRTC` `Three.js` `Socket.io`
 
-<img src="https://res.cloudinary.com/dalcmjvyn/image/upload/w_600,h_400,c_scale,q_80,f_gif/v1765522501/DrawnoVideoLandingPage_p2x4pn.gif" alt="Drawno Preview" width="600px" />
+<img src="https://res.cloudinary.com/dalcmjvyn/image/upload/w_700,q_85/v1765522501/DrawnoVideoLandingPage_p2x4pn.gif" alt="Drawno Preview" width="600px" />
+
 
 
 
