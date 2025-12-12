@@ -60,9 +60,9 @@ Real-time collaboration • Live cursors • Voice chat • 3D animations
 ### 🌟 Aurora
 **Modern Social Media Platform** • `React` `Node.js` `MongoDB` `Express`
 
-<a href="https://aurora-frontend-one.vercel.app/" target="_blank">
-  <img src="https://res.cloudinary.com/dalcmjvyn/image/upload/v1763289930/Screenshot_2025-11-16_161129_iwofbc.png" alt="Aurora Preview" width="600px" />
-</a>
+
+ <img src="https://res.cloudinary.com/dalcmjvyn/image/upload/w_700,q_85/v1765524476/AuroraVideoLandingPage_vo1ewj.gif" alt="Aurora Preview" width="600px" />
+
 
 User profiles • Post sharing • Real-time feeds • Social interactions
 
