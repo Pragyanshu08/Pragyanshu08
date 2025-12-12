@@ -44,8 +44,9 @@ const pragyanshu = {
 ### 🎨 Drawno
 **Real-Time Collaborative Whiteboard** • `React` `Vite` `WebRTC` `Three.js` `Socket.io`
 
+<a href="https://drawno-frontend.vercel.app/" target="_blank">
 <img src="https://res.cloudinary.com/dalcmjvyn/image/upload/w_700,q_85/v1765522501/DrawnoVideoLandingPage_p2x4pn.gif" alt="Drawno Preview" width="600px" />
-
+</a>
 
 
 
@@ -60,7 +61,7 @@ Real-time collaboration • Live cursors • Voice chat • 3D animations
 ### 🌟 Aurora
 **Modern Social Media Platform** • `React` `Node.js` `MongoDB` `Express`
 
-<a href="https://vitsnoteshub.onrender.com/" target="_blank">
+<a href="https://aurora-frontend-one.vercel.app/" target="_blank">
 <img src="https://res.cloudinary.com/dalcmjvyn/image/upload/w_500,q_70/v1765524476/AuroraVideoLandingPage_vo1ewj.gif" alt="Aurora Preview" width="600px" />
 </a>
 
