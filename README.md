@@ -44,9 +44,8 @@ const pragyanshu = {
 ### 🎨 Drawno
 **Real-Time Collaborative Whiteboard** • `React` `Vite` `WebRTC` `Three.js` `Socket.io`
 
-<a href="https://drawno-frontend.vercel.app/" target="_blank">
-  <img src="https://res.cloudinary.com/dalcmjvyn/image/upload/v1765522501/DrawnoVideoLandingPage_p2x4pn.gif?v=1" alt="Drawno Preview" width="600px" />
-</a>
+<img src="https://res.cloudinary.com/dalcmjvyn/image/upload/v1765522501/DrawnoVideoLandingPage_p2x4pn.gif" alt="Drawno Preview" width="600px" />
+
 
 
 Real-time collaboration • Live cursors • Voice chat • 3D animations
