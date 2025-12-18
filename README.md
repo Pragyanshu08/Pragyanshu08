@@ -37,7 +37,7 @@ const pragyanshu = {
 
 ---
 
-## 💼 featured projects
+## 💼 projects
 
 <div align="center">
 
