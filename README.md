@@ -3,7 +3,7 @@
 </div> 
 
 <div align="center"> 
-
+ 
 ### Full-Stack Developer | Building Digital Experiences 🚀     
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+seamless+user+experiences;Passionate+about+clean+code;Real-time+apps+enthusiast" alt="Typing SVG" />
